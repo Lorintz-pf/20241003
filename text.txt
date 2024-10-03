@@ -1,1 +1,1 @@
-első sor a text mappában
+első sor a text fájlban!
